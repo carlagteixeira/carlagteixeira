@@ -1,16 +1,12 @@
-### Hi there 👋
+Olá, bem vindos!  
 
-<!--
-**carlagteixeira/carlagteixeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌻 Eu sou Carla.<br>
+🎓 Sou formada em Ciência da Computação.<br>
+💻 Trabalhei como desenvolvedora desde 2008 com a stack PHP, MySQL, Javascript, CSS, e HTML.<br>
+🚀 Em 2021 decidi me reinventar e comecei a explorar diversos temas de tecnologia. <br>
+📈📊 Hoje faço curso de Ciência de Dados pela [FLAI - Inteligência Artificial](https://www.flai.com.br/)
+<br>
+<br>🔗 [Linkedin](https://www.linkedin.com/in/carlagteixeira/)
+<br>
+Iniciando meu Github pessoal em 2022:
+* [Análise de vendas com Power BI](https://github.com/carlagteixeira/flai-superstore-challenge)
